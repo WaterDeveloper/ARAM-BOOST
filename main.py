@@ -17,3 +17,4 @@ async def disconnect(_):
     print('')
 
 connector.start()
+
