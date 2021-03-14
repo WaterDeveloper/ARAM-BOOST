@@ -16,5 +16,5 @@ async def connect(connection):
 async def disconnect(_):
     print('')
 
-connector.start()
+connector.start(
 
